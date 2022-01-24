@@ -2002,12 +2002,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'Maze Game
+  m_Text: 'Escape The Maze
 
     Collect 3 coins in 10 seconds to win
 
-    USE ARROWS TO
-    MOVE'
+    USE ARROWS
+    TO MOVE'
 --- !u!222 &464559789
 CanvasRenderer:
   m_ObjectHideFlags: 0
